@@ -13,3 +13,10 @@ Proyecto de **Red Bull Basement 2026** potenciado por **Microsoft Azure AI Found
 
 ### 🎯 Visión
 Generar conciencia administrativa y superar la volatilidad política mediante tecnología de impacto social.
+
+### 📊 Estado del Proyecto
+**Fase actual:** Configuración de Arquitectura Inicial (MVP).
+
+**Última actualización:** Estructura de base de datos SQL para triaje preventivo completada.
+
+**Próximo paso:** Integración de modelos de procesamiento de lenguaje natural (NLP) con Azure OpenAI.
